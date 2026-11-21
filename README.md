@@ -1,4 +1,4 @@
-# SigmaOS-mint-drivers-pack
+# SigmaOS-drivers-pack
 
 Driver pack for SigmaOS inspired by Linux Mint
 

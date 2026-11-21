@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-mint-drivers-pack"
+name = "SigmaOS-drivers-pack"
 tier = 2
 stability = "beta"
 language = "rust"

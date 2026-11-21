@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "SigmaOS-mint-drivers-pack"
+name = "sigmaos-drivers-pack"
 version = "0.1.0"
